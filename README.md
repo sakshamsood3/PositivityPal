@@ -1,0 +1,2 @@
+# PositivityPal
+Discord Bot
